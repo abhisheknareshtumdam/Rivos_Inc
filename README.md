@@ -4,6 +4,8 @@
 
 This project examines critical regional dynamics, workforce trends, and industry performance using data-driven insights. It highlights growth opportunities, challenges, and actionable recommendations for businesses, policymakers, and workforce strategists. Key findings emphasize the dominance of industries like Security, Health, and Logistics, emerging opportunities in secondary cities, and the transformative impact of technology on workforce efficiency and industry operations.
 
+### **[Live Report Link]([#](https://app.powerbi.com/view?r=eyJrIjoiYzM1ZGZlYzQtMDIwNy00YmM2LWFiNjItZWQ3NjYwZmRkZDY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
 ---
 
 ## **Tech Stacks**
